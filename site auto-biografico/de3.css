@@ -1,0 +1,40 @@
+.title 
+{
+    text-align: center;
+    font-style: oblique;
+    font-size: 40px;
+}
+
+#sub
+{
+    margin-top: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.navbares
+{
+    background-color: gray;
+    padding: 5px 10px;
+}
+
+.itens
+{
+    list-style-type: none;
+    margin: 1;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.itens li
+{
+    margin-right: 590px;
+}
+
+.itens a
+{
+    color: white;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 18px;
+}
